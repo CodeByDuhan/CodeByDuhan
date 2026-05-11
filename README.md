@@ -99,7 +99,7 @@ class MLEngineer:
 <tr>
 <td width="33%" valign="top">
 
-### 🌿 Plant Disease Classification  
+### Plant Disease Classification  
 **Research-oriented Deep Learning project**
 
 Built an experiment-driven plant disease classification project using the PlantVillage dataset.
@@ -119,7 +119,7 @@ PyTorch • OpenCV • Flask • Streamlit
 
 <td width="33%" valign="top">
 
-### 🚗 Traffic Accident Prediction  
+### Traffic Accident Prediction  
 **End-to-end ML pipeline**
 
 Developed a T+1 accident risk prediction system using weather data and synthetic hourly labels.
@@ -140,7 +140,7 @@ Python • scikit-learn • XGBoost • Flask
 
 <td width="33%" valign="top">
 
-### 🏃 Activizer  
+### Activizer  
 **Graduation Project – Real-time CV system**
 
 Worked on the computer vision side of a motion training system.
@@ -159,6 +159,29 @@ OpenCV • YOLO • MediaPipe • Raspberry Pi 5
 </td>
 </tr>
 </table>
+
+---
+
+## ◇ Currently Building
+
+### AI-powered game assistant prototype
+
+I am working on a game companion prototype that gives players quest, build, gear, and hint support based on their current context and playstyle.
+
+The focus is on turning LLM reasoning into a structured product system: intent detection, player memory, confidence-aware recommendations, fallback handling, and lightweight game-specific knowledge design.
+
+**Current focus**
+- God of War Ragnarök MVP prototype
+- Player-aware gear/build recommendations
+- Structured LLM orchestration
+- Confidence and fallback logic
+- Lightweight game ontology, not a full item database
+
+**Stack**  
+Python • FastAPI • Streamlit • JSON • LLM orchestration
+
+---
+
 ## ◇ Tech Stack
 
 ### Core Languages
